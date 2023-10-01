@@ -1,0 +1,12 @@
+Le piscine
+
+
+Si vuole progettare una base di dati contenente le informazioni relative alle piscine gestite dal comune di Udine, tenendo conto delle seguenti informazioni:
+• Le piscine sono identificate univocamente attraverso il nome. Per ciascuna sono inoltre noti l’indirizzo, un numero di telefono e l’insegnante che è il responsabile.
+• Presso le piscine sono organizzati dei corsi; lo stesso tipo di corso può essere svolto presso piscine diverse, eventualmente con modalità differenti. Ciascun corso è pertanto identificato dal nome dell’attività svolta (Acquagym, Nuoto Sincronizzato, Corso per Gestanti, . . . ) e dal nome della piscina presso cui tale corso si svolge. Per ciascun corso, svolto presso una certa piscina, è noto il costo, il numero minimo e massimo di partecipanti, in quali giorni della settimana si svolge e in quali orari. Si ipotizzi che presso ciascuna piscina ogni corso sia svolto una sola volta al giorno, ma anche più volte durante la settimana.
+• Il corpo insegnante lavora a rotazione presso le varie piscine. Per ciascun insegnante è noto il codice fiscale, che lo identifica, un nome, il numero di cellulare, se disponibile, e l’elenco delle qualifiche dell’insegnante (ad esempio istruttore di sub, istruttore di aerobica, ecc). All’interno della base dati si vuole tener traccia di tutti gli intervalli di tempo in cui un insegnante ha lavorato presso ciascuna piscina. Non si escluda che lo stesso insegnante possa aver lavorato presso una stessa piscina più volte.
+• Le piscine possono essere frequentate o da persone che sono iscritte ai corsi, o secondo la modalità ad “ingresso singolo” per svolgere nuoto libero (si noti che sono registrate per l’ingresso singolo solo le persone che non hanno mai frequentato corsi). Tutte le persone che accedono alle piscine sono identificate attraverso il loro codice fiscale ed inoltre sono noti il nome, un indirizzo ed un numero di telefono.
+• Le persone che sono iscritte ai corsi devono presentare un certificato medico. Pertanto, nel caso la persona sia iscritta ad un corso, la base di dati contiene l’informazione del medico che ha redatto il certificato, la data in cui la persona ha presentato il certificato, l’età della persona, e l’elenco dei corsi a cui è iscritta. Per le persone che hanno fatto solo ingressi sono noti solo la data in cui è stato effettuato l’ultimo ingresso e presso quale piscina.
+
+
+
