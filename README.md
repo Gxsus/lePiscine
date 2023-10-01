@@ -9,4 +9,4 @@ Entità che utilizzeremo:
 - Orario --> _dataInizio_, _dataFine_; 
 -------------------------------------
 Schema ER (entity relationship):
-![Alt text](diagrammaEr.png)
+![Alt text](diagrammaEr.jpg)
