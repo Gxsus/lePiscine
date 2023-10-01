@@ -6,7 +6,7 @@ Entità che utilizzeremo:
 - Corso --> modalita, costo, minPartecipanti, maxPartecipanti, _idCorso_;
 - Insegnante --> _cf_, nome, cognome, numeroTelefono, [qualifiche]; 
 - Cliente --> isIscritto, _cf_, nome, cognome, indirizzo, numeroTelefono;
-- Orario --> _dataInizio_, _dataFine_; 
+- Orario --> _dataInizio_, _dataFine_, _idPiscina_; 
 -------------------------------------
 Schema ER (entity relationship):
 ![Alt text](diagrammaEr.jpg)
